@@ -44,6 +44,11 @@
             android:id="@+id/etText"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:gravity="top|left" />
+            android:gravity="top|left"
+            android:text="juhh"
+            android:textAllCaps="false"
+            android:textColor="@android:color/holo_orange_dark"
+            android:textSize="24sp"
+            android:textStyle="italic" />
     </ScrollView>
 </RelativeLayout>
